@@ -1,5 +1,3 @@
-<title>Markdown Project</title>
-  
 <h1 align="center">Markdown Project</h1>
 
 
