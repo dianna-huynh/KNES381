@@ -8,5 +8,4 @@
 
 This is a [link](readme.md) to a really cool file.
 
-<p>VO<sub>2</sub></p>
-
+<p>V&#x0307;O<sub>2</sub></p>
