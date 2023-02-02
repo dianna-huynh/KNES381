@@ -1,5 +1,14 @@
-<title><center>Markdown Project</center></title>
+<title>Markdown Project</title>
   
-<h1><center>Markdown Project</center></h1>
+<h1 align="center">Markdown Project</h1>
 
-<p style="color:purple;">This is a really really really really really really really really really really really really really really really really really long paragraph</p>
+
+<img align="right" width="300" height="300" src="Kipper.JPG">
+
+<p style="color:red;">This is a really really really really really really really really really really really really really really really really really long paragraph</p>
+
+
+This is a [link](readme.md) to a really cool file.
+
+<p>VO<sub>2</sub></p>
+
