@@ -1,7 +1,7 @@
 <h1 align="center">Markdown Project</h1>
 
 
-<img align="right" width="300" height="300" src="Kipper.JPG">
+<img align="right" width="500" height="500" src="Kipper.JPG">
 
 <p style="color:red;">This is a really really really really really really really really really really really really really really really really really long paragraph</p>
 
