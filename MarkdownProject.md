@@ -6,4 +6,4 @@
 
 This is a [link](readme.md) to a really :snowflake:cool:snowflake: file.
 
-<p>V&#x0307;O<sub>2</sub>:triumph: </p>
+<p>V<span>&#775;</span>O<sub>2</sub>:triumph: </p>
