@@ -1,6 +1,6 @@
 <h1 align="center">Markdown Project</h1>
 
-<img align="right" width="500" height="500" src="Kipper.JPG">
+<img align="right" width="500" height="500" src="CoolFolder/Kipper.JPG">
 
 <p style="color:red;">This is a really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really long paragraph.:dog:</p>
 
