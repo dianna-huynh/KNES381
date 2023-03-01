@@ -11,7 +11,6 @@ def printRocket():
 
                                | * |
 
-
                                | * |
 
                                | * |
@@ -20,7 +19,7 @@ def printRocket():
                       """ )
 printRocket()
 
-delay = 1000
+delay = 300
 for i in range(60):
     print(
         """
@@ -30,4 +29,3 @@ for i in range(60):
         """)
     sleep(delay/400)
     delay = delay *0.9
-
