@@ -1,15 +1,3 @@
-from time import sleep
-
-def printRocket():
-    print(
-    """
-
-
-
-                                 -
-                              /     \
-
-                               | * |
 
                                | * |
 
@@ -19,7 +7,7 @@ def printRocket():
                       """ )
 printRocket()
 
-delay = 300
+delay = 1000
 for i in range(60):
     print(
         """
@@ -27,5 +15,6 @@ for i in range(60):
                                 ***
                                *****
         """)
-    sleep(delay/1000)
+    sleep(delay/400)
     delay = delay *0.9
+
