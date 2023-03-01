@@ -1,3 +1,16 @@
+from time import sleep
+
+def printRocket():
+    print(
+    """
+
+
+
+                                 -
+                              /     \
+
+                               | * |
+
 
                                | * |
 
